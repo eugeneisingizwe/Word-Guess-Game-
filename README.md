@@ -43,7 +43,7 @@ In this project, I am building a game using JavaScript and Web APIs.
 - When a user refreshes or returns to the brower page, the win and loss counts should persist.
 
 ## Link To Deployed Site 
-
+https://eugeneisingizwe.github.io/Word-Guess-Game-/
 ## Mock-up
 
 ![](./Assets/images/mock-up.png)
